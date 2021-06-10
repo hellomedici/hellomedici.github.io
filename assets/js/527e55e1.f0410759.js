@@ -1,0 +1,1 @@
+(self.webpackChunkmedici=self.webpackChunkmedici||[]).push([[198],{9524:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"medici","name":"medici","count":1,"permalink":"/blog/tags/medici"}')}}]);

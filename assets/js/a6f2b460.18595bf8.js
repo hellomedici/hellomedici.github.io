@@ -1,0 +1,1 @@
+(self.webpackChunkmedici=self.webpackChunkmedici||[]).push([[665],{2596:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"medusaurus","name":"medusaurus","count":1,"permalink":"/blog/tags/medusaurus"}')}}]);

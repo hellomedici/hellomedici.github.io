@@ -1,0 +1,1 @@
+(self.webpackChunkmedici=self.webpackChunkmedici||[]).push([[757],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hippocratic Oath","permalink":"/blog/welcome"}]}')}}]);

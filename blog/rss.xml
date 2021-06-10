@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Medusaurus Blog</title>
+        <link>https://medusaurus.com/blog</link>
+        <description>Medusaurus Blog</description>
+        <lastBuildDate>Thu, 10 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hippocratic Oath]]></title>
+            <link>https://medusaurus.com/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[To start there is nothing more important than stay on the shoulder of giants, in our case it's Hippocrat and his oath.]]></description>
+        </item>
+    </channel>
+</rss>
